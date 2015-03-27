@@ -1,0 +1,9 @@
+﻿Decorator Pattern:
+
+Allows you to modify an object code dynamically.
+You should use it when u want to have capability of inheritance with subclass, but u need to add functionality at run time.
+Its more flexible than inheritance.
+Simplfies code because we add functionality using simple classes.
+Rather than rewrite code you can extend your new code.
+
+Advantage: Inheritance is static while composition is dynamic.

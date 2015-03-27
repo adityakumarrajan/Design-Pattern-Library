@@ -1,0 +1,8 @@
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\bin\Debug\PatternExecuter.exe.config
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\bin\Debug\PatternExecuter.exe
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\bin\Debug\PatternExecuter.pdb
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\obj\Debug\PatternExecuter.csprojResolveAssemblyReference.cache
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\obj\Debug\PatternExecuter.exe
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\obj\Debug\PatternExecuter.pdb
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\bin\Debug\DecoratorPattern.dll
+D:\MyWork\DesignPatternLibrary\DesignPattern.Library\PatternExecuter\bin\Debug\DecoratorPattern.pdb
